@@ -3,5 +3,6 @@ $body-color: #000;
 $theme-colors: (
         "primary": #D35400
 );
+$enable-gradients: true;
 
 @import "bootstrap/scss/bootstrap";
